@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-Finalizado-blue">
-  <img src="https://img.shields.io/badge/Licencia-CC%20BY--NC%204.0-orange">
 </p>
 
 ### Índice
